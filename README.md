@@ -13,9 +13,6 @@ A lightweight Flask-based API gateway that provides a simplified interface to Ol
 - **Simplified API Interface**: Abstracts the complexity of direct Ollama API calls
 - **Cross-Origin Support**: Configured with CORS for browser-based applications
 - **Error Handling**: Robust error management with informative responses
-- **Configurable LLM Parameters**: Supports temperature and token count adjustments
-- **Request Timeout Management**: Handles long-running inference requests gracefully
-
   
 
 ## Technical Implementation
