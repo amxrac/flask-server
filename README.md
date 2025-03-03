@@ -55,7 +55,7 @@ The service will be available at `http://localhost:5000`.
 
 #### Generate Text
 
-POST /generate
+`POST /generate`
 
   
 
