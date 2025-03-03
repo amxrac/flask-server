@@ -2,7 +2,7 @@
 
   
 
-A lightweight Flask-based API gateway that provides a simplified interface to Ollama LLM services, enabling seamless integration with large language models in your applications.
+A lightweight Flask-based API gateway that provides a simplified interface to Ollama LLM services, enabling seamless integration with large language models in applications.
 
   
 
@@ -60,19 +60,19 @@ POST /generate
   
 
 **Request Body:**
-
+```
 {  
   "prompt": "Your prompt here"  
 }
-
+```
   
 
 **Response:**
-
+```
 {  
   "response": "Generated text from the LLM..."  
 }
-
+```
   
 
 ## Architecture
