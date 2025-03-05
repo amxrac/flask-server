@@ -19,11 +19,10 @@ A lightweight Flask-based API gateway that provides a simplified interface to Ol
 
   
 
-This service implements a clean API gateway pattern with O(1) routing complexity, forwarding client requests to the Ollama backend service. The implementation:
 
   
 
-- Uses a stateless architecture for horizontal scalability
+- Uses a stateless architecture 
 - Implements proper HTTP status code responses
 - Provides JSON response formatting for client consumption
 - Includes configurable model selection (currently using llama3.1)
